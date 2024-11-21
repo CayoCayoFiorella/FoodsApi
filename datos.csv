@@ -1,0 +1,150 @@
+﻿codigo;nombre;categoria;proteina;grasa;carbohidrato;energia
+1;Cebada perlada o resbalada cocida;Cereales y derivados;1;0.1;17.7;59.292
+2;Cebada perlada o resbalada cruda;Cereales y derivados;5.3;0.6;79.8;277.427
+3;Cebada tostada y molida (chaquepa);Cereales y derivados;7.7;0.8;79.7;348.846
+4;Chancay (bizcocho);Cereales y derivados;8.8;6.9;64.4;354.9
+5;Fideo crudo fortificado con hierro;Cereales y derivados;9.4;0.2;77.7;337.4
+6;Galleta de soda (salada);Cereales y derivados;10.1;14.7;68;432.7
+7;Galleta de vainilla (dulce);Cereales y derivados;6;12.7;74.9;433.5
+8;Maíz alazán;Cereales y derivados;8.2;3.7;72.7;346.336
+9;Maíz alazán jora fresca de;Cereales y derivados;5.4;2.8;62.3;289.247
+10;Maíz alazán jora seca de;Cereales y derivados;7;3.6;73.8;346.656
+11;Maíz amarillo;Cereales y derivados;6.7;4.8;73.6;355.075
+12;Maíz blanco crudo;Cereales y derivados;5.9;4;76.1;343.374
+13;Maíz blanco tostado;Cereales y derivados;7.2;4.6;82.1;389.021
+14;Maíz cancha tostada de;Cereales y derivados;6.7;2.7;79.8;341.528
+15;Maíz chochoca de;Cereales y derivados;5.2;2.5;78;349.461
+16;Maíz grano fresco (choclo);Cereales y derivados;3.3;0.8;27.8;104.355
+17;Maíz germinado seco;Cereales y derivados;6.2;3.2;67;313.72
+18;Maíz harina de;Cereales y derivados;8.7;6.5;71.2;326.404
+19;Maíz maicena;Cereales y derivados;0.26;0.05;91.28;365.3597
+20;Maíz morado sin coronta;Cereales y derivados;7.3;3.4;76.2;355.473
+21;Maíz mote de (sancochado);Cereales y derivados;2.6;1.3;21.1;103.012
+22;Maíz pachuco de;Cereales y derivados;7.3;3.9;73.5;348.777
+23;Maíz para mote pelado;Cereales y derivados;5.9;2.1;78.3;349.233
+24;Maíz para mote sin pelar;Cereales y derivados;5.7;1.5;78.7;345.277
+25;Maíz polenta cruda de;Cereales y derivados;8.3;1.2;74;324.475
+26;Maíz tocosh crudo;Cereales y derivados;2.6;2.2;41.3;191.951
+27;Pan de cebada (serrano);Cereales y derivados;7.2;0.2;66.2;295.4
+28;Pan de labranza;Cereales y derivados;9.6;0.3;71.8;328.3
+29;Pan de molde;Cereales y derivados;6.8;2.5;69.2;316.9
+30;Pan francés fortificado con hierro;Cereales y derivados;8.4;0.2;62.9;277.4
+31;Quinua afrecho de;Cereales y derivados;10.7;4.5;65.9;350.582
+32;Quinua blanca (Junín);Cereales y derivados;12.53;6.51;65.98;333.6998
+33;Quinua blanca (Puno);Cereales y derivados;13.3;6.1;67.1;354.672
+34;Quinua cocida;Cereales y derivados;2.8;1.3;16.3;88.873
+35;Quinua;Cereales y derivados;13.6;5.8;66.6;351.262
+36;Quinua dulce blanca (Junín);Cereales y derivados;11.1;7.7;67.4;360.786
+37;Quinua dulce blanca (Puno);Cereales y derivados;11.6;5.3;68.9;348.813
+38;Quinua dulce rosada (Junín);Cereales y derivados;12.3;7.2;67.1;360.009
+39;Quinua harina de;Cereales y derivados;12.4;6;67.2;337
+40;Quinua hojuelas de;Cereales y derivados;13.9;7.4;63.1;376
+41;Quinua rosada (Puno);Cereales y derivados;12.5;6.4;67.6;356.147
+42;Quinua sémola de;Cereales y derivados;19.5;10.7;53.8;362.372
+43;Sorgo;Cereales y derivados;8;4;72.8;308.755
+44;Trigo llunka de;Cereales y derivados;9.1;1;71.8;312.443
+45;Trigo harina tostada de (machica);Cereales y derivados;7.9;1.2;79.9;330.221
+46;Trigo mote de (sancochado);Cereales y derivados;2.5;0.6;37;153.857
+47;Trigo para mote pelado cocido;Cereales y derivados;1.9;0.1;14.7;63.224
+48;Trigo para mote pelado crudo;Cereales y derivados;9.8;0.9;74.6;324.703
+49;Trigo pelado;Cereales y derivados;8.4;1.4;76.1;329.532
+50;Trigo resbalado cocido;Cereales y derivados;2.8;0.3;18.6;82.871
+51;Trigo resbalado crudo;Cereales y derivados;11.4;1.8;71.8;327.396
+52;Trigo sémola de;Cereales y derivados;7.8;1.1;78.4;318.819
+53;Trigo;Cereales y derivados;10.3;1.9;74.7;289.13
+54;Bollito de maíz de Huánuco;Cereales y derivados;9.59;17.475;57.505;425.655
+55;Bollito de yema de Huánuco;Cereales y derivados;9.945;12.645;57.535;383.725
+56;Cañihua harina de;Cereales y derivados;15.2;8.3;63;327
+57;Cañihua variedad roja;Cereales y derivados;15.38;7.54;62.71;380.9956
+58;Cañihua variedad blanca;Cereales y derivados;15.38;7.73;62.52;381.8031
+59;Galleta de soda (San Jorge);Cereales y derivados;9.3;13.3;70.8;440
+60;Galleta de vainilla (Field);Cereales y derivados;7.3;15.6;73.1;462
+61;Galleta dulce con relleno (Casino);Cereales y derivados;4.7;22;70.5;498.8
+62;Galletas nutritivas  de maca;Cereales y derivados;6.995;16.075;72.205;443.115
+63;Hiwicto marfil oscuro;Cereales y derivados;9;2;76.8;367.986
+64;Hiwicto negro;Cereales y derivados;9;2.7;74.6;364.781
+65;Kara ceniza o kala;Cereales y derivados;11.6;2.3;73.6;367.375
+66;Kara color pajizo;Cereales y derivados;7.2;2.5;76.9;365.617
+67;Kiwicha harina de;Cereales y derivados;12.2;7.9;66.4;352
+68;Kiwicha pop de Huánuco;Cereales y derivados;13.095;8.8807;66.5343;369.960825
+69;Kiwicha precocida hojuela de;Cereales y derivados;13.445;8.125;68.03;400.322
+70;Llipta sara variedad de maíz;Cereales y derivados;7.4;4.15;75.85;370.35
+71;Maíz blanco harina;Cereales y derivados;5.5;5;76.56;342.9547
+72;Maíz morado harina de (api);Cereales y derivados;8.5;4.2;74.3;318
+73;Pan árabe;Cereales y derivados;10.33;3.49;56.69;289.97
+74;Pan cachanga;Cereales y derivados;7.74;26.09;47.4;445.0083
+75;Pan campesino de Lima;Cereales y derivados;9.95;5.745;46.01;275.545
+76;Pan ciabatta;Cereales y derivados;9.22;1.96;55.04;264.76
+77;Pan chapla;Cereales y derivados;9.27;3.45;63.2;320.93
+78;Pan chuta;Cereales y derivados;9.5;11.1;62.32;387.18
+79;Pan cortadillo de Cajamarca;Cereales y derivados;6.92;7.145;67.155;360.605
+80;Pan cuay de trigo  de Carhuaz;Cereales y derivados;9.99;11.64;53.44;358.48
+81;Pan cuay de trigo de Huaraz;Cereales y derivados;7.58;10.1;48.91;296.58
+82;Pan de calabaza de Huancavelica;Cereales y derivados;11.515;3.85;48.435;274.45
+83;Pan de chicharrón de Chiclayo;Cereales y derivados;9.945;8.98;54.335;337.94
+84;Pan de girasol de Lima;Cereales y derivados;10.68;7.675;38.69;266.555
+85;Pan de hamburguesa de Iquitos;Cereales y derivados;10.825;4.665;57.715;316.145
+86;Pan de huevo;Cereales y derivados;9.32;6.85;59.37;336.41
+87;Pan de maíz;Cereales y derivados;7.67;8.69;56.73;319.29
+88;Pan de maíz de Carhuaz;Cereales y derivados;9.24;7.995;53.535;323.055
+89;Pan de maíz de Huaraz;Cereales y derivados;7.99;15.19;52.97;358.71
+90;Pan de quinua de Lima;Cereales y derivados;9.48;1.71;46.97;241.19
+91;Pan de trigo artesanal de Carhuaz;Cereales y derivados;8.83;4.6;52.37;286.2
+92;Pan de yema;Cereales y derivados;9.35;8.14;55.4;320.7
+93;Pan de yema de Cajamarca;Cereales y derivados;9.155;12.94;52.895;364.66
+94;Pan dulce de Lima;Cereales y derivados;11.875;5.015;49.45;290.435
+95;Pan huaro;Cereales y derivados;9.92;5.48;62.19;337.76
+96;Pan Huascarán de Lima;Cereales y derivados;9.425;4.75;46.25;265.45
+97;Pan integral;Cereales y derivados;9.08;8.99;55.45;339.03
+98;Pan marraqueta de Chiclayo;Cereales y derivados;6.415;2.165;68.9;320.745
+99;Pan mestizo de Huánuco;Cereales y derivados;9.57;15.715;54.765;398.775
+100;Pan mishtishongo de Huánuco;Cereales y derivados;9.065;19.97;48.48;409.91
+101;Pan mollete de Chiclayo;Cereales y derivados;10.165;3.805;52.29;284.065
+102;Pan mollete chico;Cereales y derivados;9.6;16.3;46.985;364.04
+103;Pan torta de Cajamarca;Cereales y derivados;9.415;7.985;61.49;355.485
+104;Pan vico;Cereales y derivados;9.33;9.08;56.08;343.36
+105;Pan vico de Iquitos;Cereales y derivados;11.605;4.12;62.425;333.2
+106;Pasta con huevo fortificada cruda;Cereales y derivados;14.16;4.44;71.27;374.5472
+107;Pasta fortificada cruda;Cereales y derivados;13.04;1.51;74.67;359.9071
+108;Pasta sin fortificar cruda;Cereales y derivados;13.04;1.51;74.67;359.9071
+109;Quinua variedad real;Cereales y derivados;14.22;5.05;65.85;331.0687
+110;Quinua variedad Ayara (Puno);Cereales y derivados;14.008068;6.302754;62.598006;276.3302589
+111;Quinua variedad CICA-18 (Puno);Cereales y derivados;14.370453;5.719314;66.358476;345.4044324
+112;Quinua variedad CICA-127 (Puno);Cereales y derivados;15.767679;5.210348;67.124221;360.006521
+113;Quinua variedad Cuchiwilla (Puno);Cereales y derivados;15.180898;5.207916;64.30182;317.1646306
+114;Quinua variedad Choclito (Puno);Cereales y derivados;13.39386;5.17731;67.101825;341.8402419
+115;Quinua variedad Misa Jiura (Puno);Cereales y derivados;12.320019;5.3682;68.614543;349.0166247
+116;Quinua variedad Wariponcho (Puno);Cereales y derivados;12.552136;5.48824;67.903692;346.8373462
+117;Quinua variedad Witulla (Puno);Cereales y derivados;13.66674;5.87778;67.84689;349.9336892
+118;Rosquita de almidón de Iquitos;Cereales y derivados;1.84;18.34;74.15;469.02
+119;Trigo hojuela de (chaque);Cereales y derivados;10.01;2.45;70.15;321.6094
+120;Trigo sin tostar (chaquepa);Cereales y derivados;7.04;2.24;77.88;338.4088
+121;Trigo tostado (chaquepa);Cereales y derivados;7.59;2.54;84.88;369.3543
+122;Achita kiwicha o achis;Cereales y derivados;12.8;6.6;69.1;351.154
+123;Arroz pilado o pulido cocido;Cereales y derivados;2.4;0.1;25.2;114.837
+124;Arroz blanco corriente;Cereales y derivados;7.8;0.7;77.6;358.471
+125;Arroz con cáscara;Cereales y derivados;5.9;2;75.7;331.851
+126;Avena envasada;Cereales y derivados;13.7;4.7;71.3;380.497
+127;Avena hojuela cocida;Cereales y derivados;1.3;0.5;10.9;53.591
+128;Avena hojuela cruda;Cereales y derivados;13.3;4;72.2;333.29
+129;Cañihua variedad amarilla;Cereales y derivados;15.73;7.53;62.48;381.3188
+130;Cañihua gris;Cereales y derivados;14;4.5;64;355.525
+131;Cañihua hojuela de;Cereales y derivados;14.5;8.9;61;318
+132;Cañihua parda;Cereales y derivados;13.8;3.5;66.2;355.445
+133;Cebada con cáscara;Cereales y derivados;8.4;2;77.5;284.35
+134;Cebada llunka de (morón americano);Cereales y derivados;1.9;0.7;77.1;248.814
+135;Cebada mashka o machica;Cereales y derivados;8.6;0.7;77.4;302.224
+136;Cebada para mote pelada;Cereales y derivados;8.2;1.1;73.3;327.852
+137;Cebada tostada harina integral;Cereales y derivados;8.68;3.2;80.2;274.058
+138;Maíz para mote pelado (sancochado);Cereales y derivados;5.9;2.1;78.3;349.233
+139;Quinua blanca (sancochada);Cereales y derivados;13.3;6.1;67.1;354.672
+140;Quinua blanca (tostada);Cereales y derivados;13.3;6.1;67.1;354.672
+141;Trigo pelado (sancochado);Cereales y derivados;8.4;1.4;76.1;329.532
+142;Kiwicha (tostada);Cereales y derivados;11.865;7.55;67.66;351.92325
+143;Maíz (tostado con aceite);Cereales y derivados;3.3;0.8;27.8;129
+144;Maíz (tostado sin aceite);Cereales y derivados;3.3;0.8;27.8;129
+145;Pan hamburguesa;Cereales y derivados;10.8;4.7;57.7;316
+146;Fideos cabello de ángel;Cereales y derivados;9.4;0.2;77.7;337.4
+147;Pan rosca;Cereales y derivados;11.875;5.015;49.45;290.435
+148;Galleta rellenita;Cereales y derivados;5.7;21.1;69.8;491.9
+149;Maíz amarillo (sancochado);Cereales y derivados;6.7;4.8;73.6;355.075
